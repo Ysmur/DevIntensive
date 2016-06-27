@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name"> Муратова Елена </string>
+    <string name="phone"> +7(916)933xxxx </string>
+    <string name="email"> ysmur@yandex.ru </string>
+    <string name="vk"> vk.com/ysmur </string>
+    <string name="github"> github.com/Ysmur/DevIntensive </string>
+    <string name="about"> История начинающего разработчика. Какая б жизнь у нас была,
+        если бы в школьные годы дома был компьютер... </string>
+    <string name="title_rating"> 5   </string>
+    <string name="title_code_strok"> 1000  </string>
+    <string name="title_project"> 3   </string>
+
 </resources>
